@@ -1,16 +1,15 @@
 # sample_fossa_deps
 
-Sample Usage of 
+Sample Usage of <br>
 
-`referenced-dependencies`
-`remote-dependencies`
-`vendored-dependencies`
+`referenced-dependencies`<br>
+`remote-dependencies`<br>
+`vendored-dependencies`<br>
 
-Learn more here: https://github.com/fossas/fossa-cli/blob/master/docs/references/files/fossa-deps.md 
+Learn more here: https://github.com/fossas/fossa-cli/blob/master/docs/references/files/fossa-deps.md <br>
 
-Vendored dependencies require reference to source code store locally
+Vendored dependencies require reference to source code store locally. In example, we clone a copy of three dependencies:  <br> <br>
 
-In example, we clone a copy of three dependencies:
-#1 Sysvinit: https://download-mirror.savannah.gnu.org/releases/sysvinit/?C=N&O=D
-#2 Zlib: https://zlib.net/
-#3 BusyBox: https://www.busybox.net/
+#1 Sysvinit: https://download-mirror.savannah.gnu.org/releases/sysvinit/?C=N&O=D. <br>
+#2 Zlib: https://zlib.net/. <br>
+#3 BusyBox: https://www.busybox.net/. <br>
